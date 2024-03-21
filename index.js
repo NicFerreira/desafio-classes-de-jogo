@@ -1,0 +1,1 @@
+console.log("Iniciando o desafio sobre as classes de um jogo")
